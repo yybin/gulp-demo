@@ -1,0 +1,1 @@
+!function(){console.info(11)}(),console.info("333");
